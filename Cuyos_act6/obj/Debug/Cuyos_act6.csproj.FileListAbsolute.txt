@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\source\repos\Cuyos_act6\bin\Debug\Cuyos_act6.exe.config
+C:\Users\ACT-STUDENT\source\repos\Cuyos_act6\bin\Debug\Cuyos_act6.exe
+C:\Users\ACT-STUDENT\source\repos\Cuyos_act6\bin\Debug\Cuyos_act6.pdb
+C:\Users\ACT-STUDENT\source\repos\Cuyos_act6\obj\Debug\Cuyos_act6.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\source\repos\Cuyos_act6\obj\Debug\Cuyos_act6.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\source\repos\Cuyos_act6\obj\Debug\Cuyos_act6.exe
+C:\Users\ACT-STUDENT\source\repos\Cuyos_act6\obj\Debug\Cuyos_act6.pdb
+C:\Users\ACT-STUDENT\source\repos\Cuyos_act6\obj\Debug\Cuyos_act6.exe.config
