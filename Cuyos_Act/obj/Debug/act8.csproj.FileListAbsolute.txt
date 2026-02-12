@@ -1,8 +1,0 @@
-C:\Users\ACT-STUDENT\Desktop\act8\bin\Debug\act8.exe.config
-C:\Users\ACT-STUDENT\Desktop\act8\bin\Debug\act8.exe
-C:\Users\ACT-STUDENT\Desktop\act8\bin\Debug\act8.pdb
-C:\Users\ACT-STUDENT\Desktop\act8\obj\Debug\act8.csproj.AssemblyReference.cache
-C:\Users\ACT-STUDENT\Desktop\act8\obj\Debug\act8.csproj.CoreCompileInputs.cache
-C:\Users\ACT-STUDENT\Desktop\act8\obj\Debug\act8.exe
-C:\Users\ACT-STUDENT\Desktop\act8\obj\Debug\act8.pdb
-C:\Users\ACT-STUDENT\Desktop\act8\obj\Debug\act8.exe.config
