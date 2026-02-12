@@ -1,7 +1,0 @@
-C:\Users\Rex\OneDrive\Desktop\act8 dastru\act8 dastru\bin\Debug\act8 dastru.exe.config
-C:\Users\Rex\OneDrive\Desktop\act8 dastru\act8 dastru\bin\Debug\act8 dastru.exe
-C:\Users\Rex\OneDrive\Desktop\act8 dastru\act8 dastru\bin\Debug\act8 dastru.pdb
-C:\Users\Rex\OneDrive\Desktop\act8 dastru\act8 dastru\obj\Debug\act8 dastru.csproj.AssemblyReference.cache
-C:\Users\Rex\OneDrive\Desktop\act8 dastru\act8 dastru\obj\Debug\act8 dastru.csproj.CoreCompileInputs.cache
-C:\Users\Rex\OneDrive\Desktop\act8 dastru\act8 dastru\obj\Debug\act8 dastru.exe
-C:\Users\Rex\OneDrive\Desktop\act8 dastru\act8 dastru\obj\Debug\act8 dastru.pdb
